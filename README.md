@@ -18,7 +18,7 @@ DietaAI é um aplicativo inovador que utiliza a inteligência artificial Gemini 
 ✅ Interface intuitiva e responsiva  
 
 <p align="center">
-  <img alt="Agregador de Links" src="https://i.ibb.co/PZqw1gSg/dieta2.jpg" width="50%">
+  <img alt="Agregador de Links" src="https://i.ibb.co/PZqw1gSg/dieta2.jpg" width="30%">
 </p>
 
 
