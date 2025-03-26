@@ -1,50 +1,29 @@
-# Welcome to your Expo app 👋
+# DietaAI - Gerador de Dietas com IA Gemini
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Visão Geral
+DietaAI é um aplicativo inovador que utiliza a inteligência artificial Gemini para criar planos alimentares personalizados. Com base no perfil do usuário, objetivos e restrições alimentares, o DietaAI gera dietas equilibradas e adaptadas às necessidades individuais.
 
-## Get started
+## Tecnologias Utilizadas
+- **React Native** - Frontend interativo e dinâmico
+- **Node.js** - Backend eficiente
+- **Google Gemini API** - Geração de dietas inteligentes
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+## Funcionalidades
+✅ Geração de dietas personalizadas com IA  
+✅ Ajuste conforme objetivo (emagrecimento, ganho de massa, manutenção)  
+✅ Opções para restrições alimentares  
+✅ Histórico de planos alimentares  
+✅ Sugestões de receitas  
+✅ Interface intuitiva e responsiva  
 
-2. Start the app
+<p align="center">
+  <img alt="Agregador de Links" src="https://i.ibb.co/236jjJy5/dieta.jpg">
+</p>
 
-   ```bash
-    npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+## Licença
+Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+ 
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
